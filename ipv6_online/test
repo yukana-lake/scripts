@@ -1,3 +1,0 @@
-interface "eth1" {
-   send dhcp6.client-id ;
-}
